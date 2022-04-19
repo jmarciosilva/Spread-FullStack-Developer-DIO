@@ -1,0 +1,41 @@
+Curso 1
+Introdução ao JavaScript
+
+Curso 2
+Sintaxe e Operadores
+
+Curso 3
+Variáveis e Tipos
+
+Curso 4
+Funções
+
+Curso 5
+Coleções
+
+Curso 6
+Map, Filter e Reduce
+
+Curso 7
+Debugging e Error Handling
+
+Curso 8
+JavaScript Assíncrono
+
+Curso 9
+Orientação a Objetos
+
+Curso 10
+Trabalhando com modulos em JavaScript
+
+Curso 11
+Manipulando a D.O.M. com JavaScript
+
+Curso 12
+Introdução ao TypeScript: Explorando Classes, Tipos e Intarfaces
+
+Desafio de Código
+Desafios Iniciais JS - Spread FullStack
+
+Desafio de Projeto
+Aprenda a criar um sistema de estacionamento usando TypeScript
